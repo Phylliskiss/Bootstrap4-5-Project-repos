@@ -1,0 +1,79 @@
+/* nav bar styles  */
+    .mynav-link p{
+        margin-left: 300px;
+        color: black;
+        margin-bottom: 0px;
+    }
+
+    .searchone {
+        margin-right: 30px;
+        color: black;
+        margin-bottom: -10px;
+    }
+
+    .mybutton{
+        width: 180px;
+    }
+
+    .mybuttons{
+        background-color: lightgray;
+        border:0px;
+        color: black;
+        border-radius: 160px;
+        height: 40px;
+        margin: 3px;
+    }
+
+/* repository section style  */
+    .repose{
+        top:20px ;
+        color: lightgray;
+        /* bottom: 50px; */
+    }
+
+    .star{ 
+        top: 40px;
+    }
+
+    .mybadge{
+        background-color: gray;
+    }
+
+    .myprimary {
+        color: #fff;
+        background-color: #bcbfc1;
+        border-color: #d3d6d9;
+        color: black;
+    }
+
+/* cards section styles  */
+    .images{
+        margin-left: 200px;
+        bottom: 201px ;
+        margin-bottom: 50px;
+
+    }
+
+    .mybadge{
+        height: 30px;
+        font-size: 10px;
+        /* margin-left: 130px; */
+        background-color: black;
+        /* top:0; */
+        position: absolute;
+        right:0;
+    }
+
+    .mybadge p{
+        margin-top: 8px;
+    
+    }
+
+    .bigbutton{
+    width: 100%;
+    background-color: black;
+    }
+
+    .mycard{
+        border: 0;
+    }
